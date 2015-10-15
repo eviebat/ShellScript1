@@ -3,6 +3,8 @@ Shell Script Final Project 1
 
 Author: Emily VanDerveer
 
+This script is written in the Bash command language.
+
 This script locates executeable files. It takes a list of file names
 from the command line and determines which would be executed had these
 names be given as commands.
